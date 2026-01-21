@@ -1,5 +1,9 @@
-## Hi there 👋
+Interested in
+- Writing Fast & Efficient Code
+- Building HFT system
+- C++, Rust, Python and sometimes Go for personal project
 
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=CLinnSheng)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CLinnSheng/CLinnSheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
